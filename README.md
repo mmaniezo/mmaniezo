@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://linkedin.com/in/www.linkedin.com/in/rafaelmmaniezo) 
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/www.linkedin.com/in/rafaelmmaniezo) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,arduino,py,pycharm)](https://skillicons.dev)
@@ -12,5 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=mmaniezo&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mmaniezo&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaniezo&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
