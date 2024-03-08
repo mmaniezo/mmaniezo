@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/www.linkedin.com/in/rafaelmmaniezo/) 
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelmmaniezo/) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,arduino,py,pycharm)](https://skillicons.dev)
