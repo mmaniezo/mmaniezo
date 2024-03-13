@@ -6,7 +6,7 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelmmaniezo/) 
 
 # 💻 Minhas Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,arduino,py,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,arduino,py,sql,pycharm)](https://skillicons.dev)
 
 # 📈 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=mmaniezo&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
