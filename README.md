@@ -1,10 +1,11 @@
-<div align="center">
-  
-  # Rafael de Mônaco Maniezo
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Eu+sou+Rafael+Maniezo!)](https://git.io/typing-svg)
   ### Seja bem-vindo ao meu perfil! 👋 <br>
   🥇Engenheiro de Software<br><br>🦾Sempre buscando mais conhecimento/paixão pela programação<br>🧠Busco projetos que me desafiem a criar softwares diferentes e melhores<br>🎯Explorando novas soluções para desafios complexos, valorizo profundamente<br> 👥 Adoro colaboração em equipe e mantenho um compromisso inabalável com a qualidade do código
   <hr>
-  
+
+  <div align="center">
   # 📷 Redes-Socias:
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelmmaniezo/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/mmaniezo)
   
