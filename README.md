@@ -1,9 +1,7 @@
-<img align="right" alt="" height="340px" src="./src/study.gif">
+<img align="right" alt="" height="320px" width="340px" src="./src/study.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=100&size=35&pause=1000&color=F70000&width=435&lines=Eu+sou+Rafael+Maniezo!)](https://git.io/typing-svg)
   <p align="left"><b>🥇Engenheiro de Software</b><br><br>🦾Sempre buscando mais conhecimento.<br>🧠Me desafio a criar softwares diferentes e melhores.<br>🎯Explorando novas soluções para desafios complexos.<br> 👥 Adoro colaboração em equipe e a qualidade do código.</p>
-  <br>
-  <br>
   <br>
   <br>
   <div align="center">
